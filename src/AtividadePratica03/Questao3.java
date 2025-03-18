@@ -19,5 +19,3 @@ public class Questao3 {
 	}
 
 }
-
-//Solicite ao usuário que insira um caractere e exiba o valor digitado.
