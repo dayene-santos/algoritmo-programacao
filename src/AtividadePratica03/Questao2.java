@@ -15,13 +15,8 @@ public class Questao2 {
 			
 		System.out.println("O número digitado foi: " + num);
 		
-		
-		
-		
 		sc.close();
 
 	}
 
 }
-
-// Solicite ao usuário que insira um número real (double) e exiba o valor digitado.
