@@ -17,7 +17,8 @@ public class Questao8 {
 		System.out.println("Digite um número inteiro: ");
 			num = sc.nextInt();
 			
-		System.out.printf("A letra digitada foi: %c, e o número digitado foi: %d ", letra, num);
+		System.out.println("A letra digitada foi: " + letra);
+		System.out.println("O número digitado foi: " + num);
 		
 		sc.close();
 
